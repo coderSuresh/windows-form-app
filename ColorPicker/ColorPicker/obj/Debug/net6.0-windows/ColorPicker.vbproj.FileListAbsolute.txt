@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\ColorPicker\ColorPicker\bin\Debug\net6.0-windows\ColorPicker.exe
+D:\Coding\Windows form app\ColorPicker\ColorPicker\bin\Debug\net6.0-windows\ColorPicker.deps.json
+D:\Coding\Windows form app\ColorPicker\ColorPicker\bin\Debug\net6.0-windows\ColorPicker.runtimeconfig.json
+D:\Coding\Windows form app\ColorPicker\ColorPicker\bin\Debug\net6.0-windows\ColorPicker.dll
+D:\Coding\Windows form app\ColorPicker\ColorPicker\bin\Debug\net6.0-windows\ColorPicker.pdb
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.Form1.resources
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.AssemblyInfo.vb
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.dll
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\refint\ColorPicker.dll
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.pdb
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ColorPicker.genruntimeconfig.cache
+D:\Coding\Windows form app\ColorPicker\ColorPicker\obj\Debug\net6.0-windows\ref\ColorPicker.dll
