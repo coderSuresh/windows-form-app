@@ -150,7 +150,7 @@ Partial Class Form1
         Me.Controls.Add(Me.DateTimePicker2)
         Me.Controls.Add(Me.DateTimePicker1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Age Calculator"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
