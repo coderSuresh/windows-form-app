@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\Age Calculator\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.exe
+D:\Coding\Windows form app\Age Calculator\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.deps.json
+D:\Coding\Windows form app\Age Calculator\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.runtimeconfig.json
+D:\Coding\Windows form app\Age Calculator\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.dll
+D:\Coding\Windows form app\Age Calculator\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.pdb
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age_Calculator.Form1.resources
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.AssemblyInfo.vb
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.dll
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\refint\Age Calculator.dll
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.pdb
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.genruntimeconfig.cache
+D:\Coding\Windows form app\Age Calculator\Age Calculator\obj\Debug\net6.0-windows\ref\Age Calculator.dll
