@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.Form1.resources
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.AssemblyInfo.vb
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\notepad\notepad\bin\Debug\net6.0-windows\notepad.exe
+D:\Coding\Windows form app\notepad\notepad\bin\Debug\net6.0-windows\notepad.deps.json
+D:\Coding\Windows form app\notepad\notepad\bin\Debug\net6.0-windows\notepad.runtimeconfig.json
+D:\Coding\Windows form app\notepad\notepad\bin\Debug\net6.0-windows\notepad.dll
+D:\Coding\Windows form app\notepad\notepad\bin\Debug\net6.0-windows\notepad.pdb
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.dll
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\refint\notepad.dll
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.pdb
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\notepad.genruntimeconfig.cache
+D:\Coding\Windows form app\notepad\notepad\obj\Debug\net6.0-windows\ref\notepad.dll
