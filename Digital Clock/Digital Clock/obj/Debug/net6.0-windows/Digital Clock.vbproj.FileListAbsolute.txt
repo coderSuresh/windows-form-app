@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.exe
+D:\Coding\Windows form app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.deps.json
+D:\Coding\Windows form app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.runtimeconfig.json
+D:\Coding\Windows form app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.dll
+D:\Coding\Windows form app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.pdb
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital_Clock.Form1.resources
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.AssemblyInfo.vb
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.dll
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\refint\Digital Clock.dll
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.pdb
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.genruntimeconfig.cache
+D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\ref\Digital Clock.dll

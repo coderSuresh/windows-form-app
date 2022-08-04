@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\Days Converter\Days Converter\bin\Debug\net6.0-windows\Days Converter.exe
+D:\Coding\Windows form app\Days Converter\Days Converter\bin\Debug\net6.0-windows\Days Converter.deps.json
+D:\Coding\Windows form app\Days Converter\Days Converter\bin\Debug\net6.0-windows\Days Converter.runtimeconfig.json
+D:\Coding\Windows form app\Days Converter\Days Converter\bin\Debug\net6.0-windows\Days Converter.dll
+D:\Coding\Windows form app\Days Converter\Days Converter\bin\Debug\net6.0-windows\Days Converter.pdb
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days Converter.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days_Converter.Form1.resources
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days Converter.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days Converter.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days Converter.AssemblyInfo.vb
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days Converter.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days Converter.dll
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\refint\Days Converter.dll
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days Converter.pdb
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\Days Converter.genruntimeconfig.cache
+D:\Coding\Windows form app\Days Converter\Days Converter\obj\Debug\net6.0-windows\ref\Days Converter.dll
