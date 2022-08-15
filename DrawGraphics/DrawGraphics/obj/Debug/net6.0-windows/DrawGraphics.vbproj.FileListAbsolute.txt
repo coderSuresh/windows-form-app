@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\bin\Debug\net6.0-windows\DrawGraphics.exe
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\bin\Debug\net6.0-windows\DrawGraphics.deps.json
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\bin\Debug\net6.0-windows\DrawGraphics.runtimeconfig.json
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\bin\Debug\net6.0-windows\DrawGraphics.dll
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\bin\Debug\net6.0-windows\DrawGraphics.pdb
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.Form1.resources
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.AssemblyInfo.vb
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.dll
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\refint\DrawGraphics.dll
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.pdb
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\DrawGraphics.genruntimeconfig.cache
+D:\Coding\Windows form app\DrawGraphics\DrawGraphics\obj\Debug\net6.0-windows\ref\DrawGraphics.dll
