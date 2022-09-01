@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\Collection\Collection\bin\Debug\net6.0-windows\Collection.exe
+D:\Coding\Windows form app\Collection\Collection\bin\Debug\net6.0-windows\Collection.deps.json
+D:\Coding\Windows form app\Collection\Collection\bin\Debug\net6.0-windows\Collection.runtimeconfig.json
+D:\Coding\Windows form app\Collection\Collection\bin\Debug\net6.0-windows\Collection.dll
+D:\Coding\Windows form app\Collection\Collection\bin\Debug\net6.0-windows\Collection.pdb
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.Form1.resources
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.AssemblyInfo.vb
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.dll
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\refint\Collection.dll
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.pdb
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\Collection.genruntimeconfig.cache
+D:\Coding\Windows form app\Collection\Collection\obj\Debug\net6.0-windows\ref\Collection.dll

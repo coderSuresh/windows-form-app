@@ -15,6 +15,7 @@ Public Class Form1
         Panel1.Refresh()
         Dim r As New Rectangle(10, 10, 100, 100)
         g.DrawEllipse(Pens.Purple, r)
+        g.FillEllipse(Brushes.Red, r)
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click

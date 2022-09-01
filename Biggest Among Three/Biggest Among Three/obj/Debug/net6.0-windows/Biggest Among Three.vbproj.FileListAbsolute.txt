@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\bin\Debug\net6.0-windows\Biggest Among Three.exe
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\bin\Debug\net6.0-windows\Biggest Among Three.deps.json
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\bin\Debug\net6.0-windows\Biggest Among Three.runtimeconfig.json
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\bin\Debug\net6.0-windows\Biggest Among Three.dll
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\bin\Debug\net6.0-windows\Biggest Among Three.pdb
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest Among Three.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest_Among_Three.Form1.resources
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest Among Three.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest Among Three.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest Among Three.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest Among Three.AssemblyInfo.vb
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest Among Three.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest Among Three.dll
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\refint\Biggest Among Three.dll
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest Among Three.pdb
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\Biggest Among Three.genruntimeconfig.cache
+D:\Coding\Windows form app\Biggest Among Three\Biggest Among Three\obj\Debug\net6.0-windows\ref\Biggest Among Three.dll

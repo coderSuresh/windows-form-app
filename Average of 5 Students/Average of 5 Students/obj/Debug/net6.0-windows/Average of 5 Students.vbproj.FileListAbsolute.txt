@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\bin\Debug\net6.0-windows\Average of 5 Students.exe
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\bin\Debug\net6.0-windows\Average of 5 Students.deps.json
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\bin\Debug\net6.0-windows\Average of 5 Students.runtimeconfig.json
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\bin\Debug\net6.0-windows\Average of 5 Students.dll
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\bin\Debug\net6.0-windows\Average of 5 Students.pdb
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average of 5 Students.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average_of_5_Students.Form1.resources
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average of 5 Students.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average of 5 Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average of 5 Students.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average of 5 Students.AssemblyInfo.vb
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average of 5 Students.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average of 5 Students.dll
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\refint\Average of 5 Students.dll
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average of 5 Students.pdb
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\Average of 5 Students.genruntimeconfig.cache
+D:\Coding\Windows form app\Average of 5 Students\Average of 5 Students\obj\Debug\net6.0-windows\ref\Average of 5 Students.dll

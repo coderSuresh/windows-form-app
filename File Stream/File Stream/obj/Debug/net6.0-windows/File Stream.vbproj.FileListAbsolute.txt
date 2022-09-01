@@ -1,0 +1,17 @@
+D:\Coding\Windows form app\File Stream\File Stream\bin\Debug\net6.0-windows\File Stream.exe
+D:\Coding\Windows form app\File Stream\File Stream\bin\Debug\net6.0-windows\File Stream.deps.json
+D:\Coding\Windows form app\File Stream\File Stream\bin\Debug\net6.0-windows\File Stream.runtimeconfig.json
+D:\Coding\Windows form app\File Stream\File Stream\bin\Debug\net6.0-windows\File Stream.dll
+D:\Coding\Windows form app\File Stream\File Stream\bin\Debug\net6.0-windows\File Stream.pdb
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File Stream.vbproj.AssemblyReference.cache
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File_Stream.Form1.resources
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File Stream.vbproj.GenerateResource.cache
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File Stream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File Stream.AssemblyInfoInputs.cache
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File Stream.AssemblyInfo.vb
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File Stream.vbproj.CoreCompileInputs.cache
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File Stream.dll
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\refint\File Stream.dll
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File Stream.pdb
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\File Stream.genruntimeconfig.cache
+D:\Coding\Windows form app\File Stream\File Stream\obj\Debug\net6.0-windows\ref\File Stream.dll
