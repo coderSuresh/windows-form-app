@@ -15,3 +15,20 @@ D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\
 D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.pdb
 D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.genruntimeconfig.cache
 D:\Coding\Windows form app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\ref\Digital Clock.dll
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.exe
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.deps.json
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.runtimeconfig.json
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.dll
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\bin\Debug\net6.0-windows\Digital Clock.pdb
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.vbproj.AssemblyReference.cache
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital_Clock.Form1.resources
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.vbproj.GenerateResource.cache
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.AssemblyInfoInputs.cache
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.AssemblyInfo.vb
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.vbproj.CoreCompileInputs.cache
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.dll
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\refint\Digital Clock.dll
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.pdb
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\Digital Clock.genruntimeconfig.cache
+E:\Fork\1\windows-form-app\Digital Clock\Digital Clock\obj\Debug\net6.0-windows\ref\Digital Clock.dll
