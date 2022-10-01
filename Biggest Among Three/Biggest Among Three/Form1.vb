@@ -15,6 +15,6 @@
             Else greatest = c
             End If
         End If
-        MessageBox.Show(greatest & " is the greatest number")
+        MessageBox.Show(greatest & " is the greatest number from")
     End Sub
 End Class
